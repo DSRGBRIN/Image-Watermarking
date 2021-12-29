@@ -1,2 +1,2 @@
 # Image-Watermarking
-Python Image Wateermarking
+Python-based Image Wateermarking
