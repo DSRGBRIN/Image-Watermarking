@@ -1,2 +1,2 @@
-# Image-Watermarking
-Python-based Image Wateermarking
+# Image Watermarking
+Image Watermarking using Python
